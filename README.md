@@ -1,1 +1,1 @@
-jenkins properties tests
+simply tests
